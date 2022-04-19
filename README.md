@@ -1,3 +1,2 @@
 # Hello! 👋
-### I am a developer specializing in C#, Java, C, and others!
-### I also enjoy writing mods, plugins, and hacked/edited clients for Minecraft.
+### I am a developer specializing in C#, Java, and C!
